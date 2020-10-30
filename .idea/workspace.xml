@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e81f0c7-4810-4aae-a7ed-67d4b1f7138f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/costpocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Apple-store.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/google-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jSszogPTPgaL69DSXvfcpBZi5f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\costpocket\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e81f0c7-4810-4aae-a7ed-67d4b1f7138f" name="Default Changelist" comment="" />
+      <created>1603809091983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603809091983</updated>
+      <workItem from="1603809095400" duration="98530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603809501232">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689/1920.0.1920.1019/3840.0.1920.1050@0.0.1280.689" timestamp="1603809501232" />
+    <state x="421" y="87" key="FileChooserDialogImpl" timestamp="1604050984610">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="87" key="FileChooserDialogImpl/0.0.1280.689/1920.0.1920.1019/3840.0.1920.1050@0.0.1280.689" timestamp="1604050984610" />
+    <state width="1259" height="75" key="GridCell.Tab.0.bottom" timestamp="1603898988629">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="75" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1920.1019/3840.0.1920.1050@0.0.1280.689" timestamp="1603898988629" />
+    <state width="1259" height="75" key="GridCell.Tab.0.center" timestamp="1603898988628">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="75" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1920.1019/3840.0.1920.1050@0.0.1280.689" timestamp="1603898988628" />
+    <state width="1259" height="75" key="GridCell.Tab.0.left" timestamp="1603898988628">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="75" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1920.1019/3840.0.1920.1050@0.0.1280.689" timestamp="1603898988628" />
+    <state width="1259" height="75" key="GridCell.Tab.0.right" timestamp="1603898988629">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="75" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1920.1019/3840.0.1920.1050@0.0.1280.689" timestamp="1603898988629" />
+    <state x="443" y="252" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604051007774">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="443" y="252" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.689/1920.0.1920.1019/3840.0.1920.1050@0.0.1280.689" timestamp="1604051007774" />
+    <state x="4286" y="233" width="672" height="677" key="run.anything.popup" timestamp="1603982189488">
+      <screen x="3840" y="0" width="1920" height="1050" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689/1920.0.1920.1019/3840.0.1920.1050@0.0.1280.689" timestamp="1603884976908" />
+    <state x="4286" y="233" width="672" height="677" key="run.anything.popup/0.0.1280.689/1920.0.1920.1019/3840.0.1920.1050@3840.0.1920.1050" timestamp="1603982189488" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1603931657288">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/1920.0.1920.1019/3840.0.1920.1050@0.0.1280.689" timestamp="1603931657288" />
+  </component>
+</project>
