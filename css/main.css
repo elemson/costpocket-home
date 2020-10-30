@@ -60,10 +60,8 @@ p, a, li {
 /*Logo styles*/
 .logo .mobile-menu{
     display: flex;
-    top: 0;
-    padding: 0;
-    margin: 0;
-    align-items: center;
+    top: 30%;
+    margin: auto 0;
 }
 .logo img {
     top: 0;
@@ -219,6 +217,7 @@ section.intro .container {
         cursor: default;
     }
 
+
     .flex .nav-primary ul {
         position: fixed;
         text-align: center;
@@ -253,7 +252,6 @@ section.intro .container {
     }
 
 
-
     .container .grid {
         display: grid;
         text-align: center;
@@ -279,7 +277,7 @@ section.intro .container {
 
 /*Desktop Styles*/
 @media screen and (min-width: 960px){
-    .mobile-menu {
+    .logo .mobile-menu {
         display: none;
     }
 
