@@ -168,8 +168,6 @@ section.intro .container {
         flex-direction: column;
     }
 
-
-
     .hero-text {
         font-size: 1.2em;
         text-align: start;
@@ -181,11 +179,6 @@ section.intro .container {
         font-size: 1.1em;
     }
 
-
-    .hero-img img {
-     background-size: 20px 20px;
-    }
-
     .hero-btn {
         display: flex;
         flex-direction: column;
@@ -193,9 +186,6 @@ section.intro .container {
         align-items: center;
     }
 
-    .intro .container {
-        text-align: center;
-    }
 }
 
 
@@ -292,8 +282,6 @@ section.intro .container {
     .mobile-menu {
         display: none;
     }
-
-
 
     h1,
     h2 {
